@@ -1,5 +1,5 @@
 # Bayesian-Network
-A model of diabetes prediction using symptom (An application of Bayesian Network) 
+A model of diabetes prediction using symptom (An application of Bayesian Network). 
 The bayesian network model was applied to a dataset that contain yes/no values to the symptoms of diabetes and gender. The bayesian network was then tested on various situations and at the end the efficiency of the model was calculated.
 ![DALL·E 2023-11-11 13 50 22 - A conceptual illustration of a Bayesian network for diabetes prediction  The network consists of various nodes representing common symptoms of diabete](https://github.com/cctdd/Bayesian-Network/assets/122665014/5944fb60-d2b1-4494-94ce-9497a5b9c886)
 
